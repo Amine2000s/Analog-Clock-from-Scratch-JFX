@@ -10,3 +10,9 @@ an analog clock made from scratch using Java Fx library
 
 - i may make it an exe dekstop who knows
 - the main reason i created is to apply OOP principles nad get comfortable using javafx 
+
+##here is what does it look like ##
+
+(aminclock.png)
+
+"it ain't that much , but its an honest work" 
