@@ -13,6 +13,6 @@ an analog clock made from scratch using Java Fx library
 
 ##here is what does it look like 
 
-![proof of concept }(aminclock.png)
+![proof of concept ](aminclock.png)
 
 "it ain't that much , but its an honest work" 
