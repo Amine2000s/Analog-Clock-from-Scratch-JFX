@@ -23,7 +23,7 @@ public class Clockpane extends Pane  {
 	private int minute ; 
 	private int second;
 	
-	private double w =500,h=500;
+	private double w =300,h=300;
 	
 	
 	public Clockpane () {
@@ -71,6 +71,13 @@ public class Clockpane extends Pane  {
 
 	public void setW(double w) {
 		this.w = w;
+	}
+	public double getH() {
+		return h;
+	}
+
+	public void setH(double h) {
+		this.h = h;
 	}
 	
 	public void setCurrentTime() {
